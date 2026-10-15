@@ -15,7 +15,7 @@ All replication data are public on Harvard Dataverse: [Tessa Provins Dataverse](
 
 ## Data
 
-- [MoVE](https://votingequity.com/): a county-level index of barriers to voting (with Joseph Dietrich, Jean Schroedel and Melissa Rogers)
+- [Measure of Voter Equity (MoVE)](https://votingequity.com/): a county-level index of barriers to voting (with Joseph Dietrich, Jean Schroedel and Melissa Rogers)
 
 ## Links
 
