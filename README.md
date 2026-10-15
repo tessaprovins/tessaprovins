@@ -8,9 +8,10 @@ I study how institutional rules shape who is represented and what policy gets ma
 
 ## Replication materials
 
-Code and data for my published work will be posted here as repositories. Currently available:
+All replication data are public on Harvard Dataverse: [Tessa Provins Dataverse](https://dataverse.harvard.edu/dataverse/tessaprovins). Code for future papers will also be posted here as repositories.
 
-- Jenkins, Monroe & Provins (2023), "Toward a theory of minority-party influence in the U.S. Congress," *Journal of Public Policy*: [Harvard Dataverse](https://doi.org/10.7910/DVN/HUR5BJ)
+- Jenkins, Monroe & Provins (2023), "Toward a theory of minority-party influence in the U.S. Congress," *Journal of Public Policy*: [data and code](https://doi.org/10.7910/DVN/HUR5BJ)
+- Provins, Monroe & Fortunato (2022), "Allocating costly influence in legislatures," *Journal of Politics*: [data and code](https://doi.org/10.7910/DVN/FUSIWA)
 
 ## Data
 
